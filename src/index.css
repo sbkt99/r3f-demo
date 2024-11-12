@@ -1,0 +1,12 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;  /* Ensure the body is a flex container */
+}
+
+#root {
+  flex: 1;  /* Ensure #root takes up the full available height */
+}
