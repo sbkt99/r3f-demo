@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/r3f-demo/static/css/main.2c9f6af0.css",
+    "main.js": "/r3f-demo/static/js/main.27bd5ba7.js",
+    "static/js/453.e76c913f.chunk.js": "/r3f-demo/static/js/453.e76c913f.chunk.js",
+    "index.html": "/r3f-demo/index.html",
+    "main.2c9f6af0.css.map": "/r3f-demo/static/css/main.2c9f6af0.css.map",
+    "main.27bd5ba7.js.map": "/r3f-demo/static/js/main.27bd5ba7.js.map",
+    "453.e76c913f.chunk.js.map": "/r3f-demo/static/js/453.e76c913f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9f6af0.css",
+    "static/js/main.27bd5ba7.js"
+  ]
+}
