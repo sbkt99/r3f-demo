@@ -41,7 +41,7 @@ export const Experience = ({items}) => {
                 <ambientLight intensity={0.8} color="pink" />
                 {/*<Background></Background>*/}
                 {/*<Avatar_Realista position={[0,-1,3.5]} scale={0.44} rotation-y={degToRad(0)}/>*/}
-                {<Claro_modelo position={[0,0,0]} scale={2} rotation-y={degToRad(0)} items={items}/>}
+                {/*<Claro_modelo position={[0,0,0]} scale={2} rotation-y={degToRad(0)} items={items}/>*/}
                 {/*<Avatar 
                     avatar={"avatar_realista_prueba"}
                     position={[-1.2,-1,3.5]}
